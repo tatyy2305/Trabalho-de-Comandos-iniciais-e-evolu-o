@@ -23,7 +23,7 @@ Inicializa um novo repositório Git.
 
 - Prepara o projeto para usar versionamento
 - Define a branch principal inicial
-# Exemplo
+# Exemplos
 - git init
 - git add
 
@@ -50,7 +50,7 @@ Salva definitivamente as alterações no histórico do projeto.
 - Cria um “ponto de salvamento”
 - Registra alterações no histórico local
 - Exige uma mensagem descritiva
-# Exemplo
+# Exemplos
 - git commit -m "Adiciona nova funcionalidade"
 - git status
 
@@ -61,9 +61,10 @@ Mostra o estado atual do repositório.
 - Arquivos preparados para commit
 - Arquivos não rastreados
 - Branch atual
-# Exemplo
+# Exemplos
 - git status
-Informações importantes
+
+# Informações importantes
 Changes to be committed → arquivos preparados
 Changes not staged for commit → arquivos modificados mas não preparados
 Untracked files → arquivos novos ainda não monitorados
@@ -100,7 +101,7 @@ Visualização gráfica:
 
 # O que é GitHub?
 
-O GitHub é uma plataforma online que utiliza Git para hospedar projetos.
+- O GitHub é uma plataforma online que utiliza Git para hospedar projetos.
 
 # Principais funções
 - Armazenar código na nuvem

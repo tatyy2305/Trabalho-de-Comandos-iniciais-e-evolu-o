@@ -124,5 +124,5 @@ O GitHub é uma plataforma online que utiliza Git para hospedar projetos.
 - git commit -m "Primeiro commit"
 - git log
 
-# Link dos slides apresentados:
+# Link dos slides apresentados :
 https://sesisenaispedu-my.sharepoint.com/:p:/r/personal/thamyres_gomes_senaisp_edu_br/Documents/trabalho%20github.pptx?d=w87d28135c5c4418083ef0ff4eb2bb723&csf=1&web=1&e=sbtvu1

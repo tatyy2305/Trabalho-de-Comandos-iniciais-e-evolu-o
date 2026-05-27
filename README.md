@@ -13,7 +13,7 @@ O Git é um sistema de controle de versão utilizado para acompanhar alteraçõe
 Ele permite salvar versões do código, recuperar mudanças antigas e colaborar com outras pessoas.
 
 Comandos Principais do Git
-git init
+- git init
 
 Inicializa um novo repositório Git.
 
@@ -24,8 +24,8 @@ Inicializa um novo repositório Git.
 - Prepara o projeto para usar versionamento
 - Define a branch principal inicial
 # Exemplo
-git init
-git add
+- git init
+- git add
 
 Adiciona arquivos à área de preparação (staging area).
 
@@ -33,16 +33,16 @@ Adiciona arquivos à área de preparação (staging area).
 - Seleciona arquivos que serão salvos no próximo commit
 - Move alterações para a área de preparação
 # Exemplos
-git add arquivo.txt
+- git add arquivo.txt
 
 Adicionar todos os arquivos:
 
-git add .
+- git add .
 
 Modo interativo:
 
-git add -p
-git commit
+- git add -p
+- git commit
 
 Salva definitivamente as alterações no histórico do projeto.
 
@@ -51,8 +51,8 @@ Salva definitivamente as alterações no histórico do projeto.
 - Registra alterações no histórico local
 - Exige uma mensagem descritiva
 # Exemplo
-git commit -m "Adiciona nova funcionalidade"
-git status
+- git commit -m "Adiciona nova funcionalidade"
+- git status
 
 Mostra o estado atual do repositório.
 
@@ -62,7 +62,7 @@ Mostra o estado atual do repositório.
 - Arquivos não rastreados
 - Branch atual
 # Exemplo
-git status
+- git status
 Informações importantes
 Changes to be committed → arquivos preparados
 Changes not staged for commit → arquivos modificados mas não preparados
@@ -80,11 +80,11 @@ Exibe o histórico de commits do projeto.
 
 Histórico resumido:
 
-git log --oneline
+- git log --oneline
 
 Visualização gráfica:
 
-git log --graph --all
+- git log --graph --all
 # Fluxo Básico do Git
 # 1. Alteração
 

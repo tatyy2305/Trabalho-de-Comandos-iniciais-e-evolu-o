@@ -1,4 +1,7 @@
 # Trabalho-de-Comandos-iniciais-e-evolução
+# oque é o GitHub?
+
+O GitHub é uma plataforma de hospedagem de código-fonte e arquivos na nuvem, amplamente utilizada por programadores e equipes de tecnologia. Ele funciona como um grande "hub" ou uma rede social para desenvolvedores, permitindo o armazenamento de projetos e o trabalho colaborativo.Para entender a plataforma, é importante conhecer seus principais componentes:Repositórios: São como as pastas do seu projeto. Eles armazenam todos os códigos, arquivos e o histórico completo de alterações de um software.Controle de Versão (Git): O GitHub utiliza internamente a tecnologia Git. Ele permite que você salve diferentes versões do seu código e, se algo der errado, você pode voltar a uma versão anterior com facilidade.Colaboração Global: Várias pessoas podem trabalhar no mesmo código ao mesmo tempo sem sobrescrever o trabalho umas das outras. É possível sugerir melhorias (Pull Requests) e discutir alterações diretamente na página do projeto.
 # O que é Git?
 
 O Git é um sistema de controle de versão utilizado para acompanhar alterações em projetos.
